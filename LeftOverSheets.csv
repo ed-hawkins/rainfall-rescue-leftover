@@ -190,7 +190,7 @@ TYRain_1860-1869_01_pt1,45,Rainfall,1860s,England,Middlesex,Middlesex-became-Lon
 TYRain_1860-1869_01_pt1,51,Rainfall,1860s,England,Middlesex,Middlesex-became-London,FINCHLEY ROAD HAMPSTEAD,10,1860,[5#........],17,0,14.2,1860/08,1861/12,1,0,20.6,,FINCHLEY-ROAD-HAMPSTEAD,TQ 252856,51.555,-0.195,270,,,NGR is on the Finchley Road where the altitude is about 170ft. There are two gauges at this site one at 270 ft and the other at 306 ft. is the latter  at roof level? Could be out by +/- 500 yards or more
 TYRain_1860-1869_01_pt1,52,Rainfall,1860s,England,Middlesex,Middlesex-became-London,FINCHLEY ROAD HAMPSTEAD,10,1860,[5#........],17,0,14.2,1860/08,1861/12,1,0,14.0,,FINCHLEY-ROAD-HAMPSTEAD,TQ 252856,51.555,-0.195,306,,,NGR is on the Finchley Road where the altitude is about 170ft. There are two gauges at this site one at 270 ft and the other at 306 ft. is the latter  at roof level? Could be out by +/- 500 yards or more
 TYRain_1860-1869_01_pt1,54,Rainfall,1860s,England,Middlesex,Middlesex-became-London,MOUNT GROVE HAMPSTEAD,10,1860,[.9##..2...],33,0,27.5,1861/03,1866/06,1,0,28.8,,MOUNT-GROVE-HAMPSTEAD,,,,,,,
-TYRain_1860-1869_01_pt1,59,Rainfall,1860s,England,Middlesex,Middlesex-became-London,Holloway,10,1860,[.......###],36,0,30,1867/01,1869/12,3,0,25.0,,HOLLOWAY-ROAD,,,,,,,
+TYRain_1860-1869_01_pt1,59,Rainfall,1860s,England,Middlesex,Middlesex-became-London,Holloway,10,1860,[.......###],36,0,30,1867/01,1869/12,3,0,25.0,,HOLLOWAY-ROAD,TQ 304860,51.558,-0.120,,,,
 TYRain_1860-1869_01_pt1,60,Rainfall,1860s,England,Middlesex,Middlesex-became-London,11 Offord RoadLondon,10,1860,[....###...],36,0,30,1864/01,1866/12,3,0,25.9,,11-OFFORD-ROAD-LONDON,,,,,,,
 TYRain_1860-1869_01_pt1,62,Rainfall,1860s,England,Middlesex,Middlesex-became-London,7 Compton Terrace Islington London,10,1860,[.......7##],31,0,25.8,1867/06,1869/12,2,0,24.0,,7-COMPTON-TERRACE-ISLINGTON-LONDON,TQ 316844,51.543,-0.104,122,,,NGR is 7 Compton Terrace. Altitudes match
 TYRain_1860-1869_01_pt1,64,Rainfall,1860s,England,Middlesex,Middlesex-became-London,HACKNEY TOWN HALL,10,1860,[#######...],83,1,69.2,1860/01,1866/12,7,0,26.1,,HACKNEY-TOWN-HALL,TQ 349850,51.548,-0.056,40,,,NGR is the Old Town Hall at 34 Mare Street. Altitudes match. The new Town Hall was opened in 1866 and is almost certainly not the location; it is 300m S.
@@ -229,14 +229,14 @@ TYRain_1860-1869_01_pt2,34,Rainfall,1860s,England,Kent,Kent-stayed-Kent,Lamberhu
 TYRain_1860-1869_01_pt2,36,Rainfall,1860s,England,Kent,Kent-stayed-Kent,Staplehurst Goughurst Vicarage,10,1860,[.......###],36,0,30,1867/01,1869/12,3,0,27.1,,GOUDHURST,TQ 726377,51.113,0.464,375,,Stevens?,
 TYRain_1860-1869_01_pt2,37,Rainfall,1860s,England,Kent,Kent-stayed-Kent,TUNBRIDGE WELLS GARDEN VILLA,10,1860,[.......##.],24,0,20,1867/01,1868/12,2,0,31.7,,TUNBRIDGE-WELLS-GARDEN-VILLA,TQ 581395,51.133,0.258,403,,Rev FW Stow,
 TYRain_1860-1869_01_pt2,58,Rainfall,1860s,England,Kent,Kent-stayed-Kent,Hayes Grove Kent,10,1860,[.........7],7,0,5.8,1869/01,1869/09,0,0,,,HAYES-HAYES-GROVE,TQ 403657,51.373,0.014,,,,
-TYRain_1860-1869_01_pt2,60,Rainfall,1860s,England,Kent,Kent-stayed-Kent,BECKENHAM KENT,10,1860,[......9.##],32,0,26.7,1866/03,1869/12,1,0,24.3,,BECKENHAM-PARKSIDE-EXTRA-SHEET,TQ 374696,51.409,-0.026,157,,Cator,
+TYRain_1860-1869_01_pt2,60,Rainfall,1860s,England,Kent,Kent-stayed-Kent,BECKENHAM KENT,10,1860,[......9.##],32,0,26.7,1866/03,1869/12,1,0,24.3,,BECKENHAM-PARKSIDE-EXTRA-SHEET,TQ 375706,51.418,-0.024,157,,Cator,
 TYRain_1860-1869_01_pt2,67,Rainfall,1860s,England,Kent,Kent-stayed-Kent,PENGE OAKFIELD ROAD,10,1860,[..11......],2,0,1.7,1862/12,1863/01,0,0,,,PENGE-OAKFIELD-ROAD,TQ 348703,51.416,-0.063,,,Moon,
 TYRain_1860-1869_01_pt2,68,Rainfall,1860s,England,Kent,Kent-stayed-Kent,SYDENHAM,10,1860,[......#...],12,0,10,1866/01,1866/12,1,0,31.6,,SYDENHAM-LETHEN-GRANGE,TQ 348713,51.425,-0.063,,,Chambers,
 TYRain_1860-1869_01_pt2,96,Rainfall,1860s,England,Sussex,-,MIDHURST HARTING,10,1860,[......5...],5,0,4.2,1866/02,1866/06,0,0,,,PETERSFIELD-HARTING,SU 787196,50.970,-0.881,,,,GR-centred-on-village
 TYRain_1860-1869_01_pt2,98,Rainfall,1860s,England,Sussex,-,FAIR OAK,10,1860,[#5#9......],36,1,30,1860/01,1863/12,4,0,34.8,,HEATHFIELD-FAIR-OAK,TQ 622262,51.012,0.311,245,,Woods,
 TYRain_1860-1869_01_pt2,112,Rainfall,1860s,England,Sussex,-,BRIGHTON (NOT MUCH DATA),10,1860,[#.........],12,0,10,1860/01,1860/12,1,0,29.4,,BRIGHTON-1860,TQ 312041,50.822,-0.139,,,,From-a-newspaper
-TYRain_1860-1869_01_pt2,119,Rainfall,1860s,England,Sussex,-,HASTINGS 39 TOWER,10,1860,[#65.......],23,2,19.2,1860/01,1862/10,1,0,33.5,,HASTINGS-39-TOWER,,,,,,,
-TYRain_1860-1869_01_pt2,120,Rainfall,1860s,England,Sussex,-,ST. LEONARDS MARINA,10,1860,[###.......],36,0,30,1860/01,1862/12,3,0,27.7,,ST-LEONARDS-MARINA,,,,,,,
+TYRain_1860-1869_01_pt2,119,Rainfall,1860s,England,Sussex,-,HASTINGS 39 TOWER,10,1860,[#65.......],23,2,19.2,1860/01,1862/10,1,0,33.5,,HASTINGS-39-TOWER,TQ 78860869,50.850,0.540,,,,
+TYRain_1860-1869_01_pt2,120,Rainfall,1860s,England,Sussex,-,ST. LEONARDS MARINA,10,1860,[###.......],36,0,30,1860/01,1862/12,3,0,27.7,,ST-LEONARDS-MARINA,TQ 785088,50.851,0.534,,,,
 TYRain_1860-1869_01_pt2,121,Rainfall,1860s,England,Sussex,-,HASTINGS HIGH STREET,10,1860,[.8........],8,0,6.7,1861/01,1861/12,0,0,,,HASTINGS-HIGH-STREET,TQ 827099,50.860,0.595,60,,Langham,
 TYRain_1860-1869_01_pt2,127,Rainfall,1860s,England,Sussex,-,OAKHURST ORE,10,1860,[.......##.],24,0,20,1867/01,1868/12,2,0,30.3,,HASTINGS-ORE-OAKHURST,TQ 822107,50.867,0.588,,,,GR-centred-on-village
 TYRain_1860-1869_01_pt2,133,Rainfall,1860s,England,Sussex,-,BATTLE ABBEY GARDENS,10,1860,[.........#],12,0,10,1869/01,1869/12,1,0,20.9,,BATTLE-ABBEY-GARDENS,TQ 750157,50.914,0.488,215,,Jack,
@@ -253,9 +253,9 @@ TYRain_1860-1869_01_pt3,35,Rainfall,1860s,England,Hampshire,-,BAPET WOOD SOUTHAM
 TYRain_1860-1869_01_pt3,42,Rainfall,1860s,England,Hampshire,-,HURSLEY,10,1860,[.3##......],25,1,20.8,1861/08,1863/10,1,0,32.1,,HURSLEY,,,,,,,
 TYRain_1860-1869_01_pt3,46,Rainfall,1860s,England,Hampshire,-,ALTON CULVERTON HOUSE HANTS,10,1860,[......###.],36,0,30,1866/01,1868/12,3,0,35.4,,ALTON-CULVERTON-HOUSE-HANTS,,,,,,,
 TYRain_1860-1869_01_pt3,48,Rainfall,1860s,England,Hampshire,-,NEW ALRESFORD,10,1860,[.#........],12,0,10,1861/01,1861/12,1,0,27.0,,NEW-ALRESFORD,,,,,,,
-TYRain_1860-1869_01_pt3,54,Rainfall,1860s,England,Hampshire,-,BASINGSTOKE WOTE STREET,10,1860,[.........#],12,0,10,1869/01,1869/12,1,0,31.2,,BASINGSTOKE-WOTE-STREET,,,,,,,
+TYRain_1860-1869_01_pt3,54,Rainfall,1860s,England,Hampshire,-,BASINGSTOKE WOTE STREET,10,1860,[.........#],12,0,10,1869/01,1869/12,1,0,31.2,,BASINGSTOKE-WOTE-STREET,SU 638522,51.265,-1.087,,,,
 TYRain_1860-1869_01_pt3,55,Rainfall,1860s,England,Hampshire,-,BASINGSTOKE EASTLANDS,10,1860,[........6#],18,0,15,1868/07,1869/12,1,0,31.5,,BASINGSTOKE-EASTLANDS,SU 640519,51.263,-1.084,300,,Stephens,same observer as at basingstoke chapel hill 2/3 mile NW
-TYRain_1860-1869_01_pt3,66,Rainfall,1860s,England,Hampshire,-,WINCHFIELD HANTS HIGHFIELD PARK BASINGSTOKE,10,1860,[........#.],12,0,10,1868/01,1868/12,1,0,31.7,,WINCHFIELD-HANTS-HIGHFIELD-PARK-BASINGSTOKE,,,,,,Henry Marson,
+TYRain_1860-1869_01_pt3,66,Rainfall,1860s,England,Hampshire,-,WINCHFIELD HANTS HIGHFIELD PARK BASINGSTOKE,10,1860,[........#.],12,0,10,1868/01,1868/12,1,0,31.7,,WINCHFIELD-HANTS-HIGHFIELD-PARK-BASINGSTOKE,SU 722604,51.338,-0.965,,,Henry Marson,
 TYRain_1860-1869_01_pt3,70,Rainfall,1860s,England,Berkshire,-,SANDHURST STAFF COLLEGE,10,1860,[.......1..],1,0,0.8,1867/02,1867/02,0,0,,,SANDHURST-STAFF-COLLEGE,,,,,,,
 TYRain_1860-1869_01_pt3,71,Rainfall,1860s,England,Berkshire,-,WOODSIDE OLD WINDSOR,10,1860,[......####],48,0,40,1866/01,1869/12,4,0,26.3,,WOODSIDE-OLD-WINDSOR,,,,,,,
 TYRain_1860-1869_01_pt3,74,Rainfall,1860s,England,Berkshire,-,WINDSOR CLEAVER HOUSE,10,1860,[......#...],12,0,10,1866/01,1866/12,1,0,30.4,,WINDSOR-CLEAVER-HOUSE,,,,,,,
@@ -284,21 +284,21 @@ TYRain_1860-1869_02_pt3,52,Rainfall,1860s,England,Devon,Devon South,PLYMOUTH (WH
 TYRain_1860-1869_02_pt3,55,Rainfall,1860s,England,Devon,Devon South,PLYMOUTH (COMPTON HILL),10,1860,[...39.....],12,0,10,1863/10,1864/12,0,0,,,PLYMOUTH-COMPTON-HILL,,,,,,,
 TYRain_1860-1869_02_pt3,60,Rainfall,1860s,England,Devon,Devon South,CORNWOOD (SLADE HILL) PLYMPTON,10,1860,[......2...],2,0,1.7,1866/01,1866/02,0,0,,,PLYMPTON-CORNWOOD-SLADE-HILL,,,,,,,
 TYRain_1860-1869_02_pt3,62,Rainfall,1860s,England,Devon,Devon South,HAREWOOD & TAMAR HOUSE BEER FERRERS,10,1860,[.....####7],54,1,45,1865/01,1869/07,4,0,46.2,,BEER-FERRERS-HAREWOOD-HOUSE-TAMAR-HOUSE,,,,,,,harewood house in plympton
-TYRain_1860-1869_02_pt3,69,Rainfall,1860s,England,Devon,Devon South,EDGCUMBE TAVISTOCK,10,1860,[1###......],37,0,30.8,1860/01,1863/12,4,0,47.3,,TAVISTOCK-EDGCUMBE,,,,,,,
+TYRain_1860-1869_02_pt3,69,Rainfall,1860s,England,Devon,Devon South,EDGCUMBE TAVISTOCK,10,1860,[1###......],37,0,30.8,1860/01,1863/12,4,0,47.3,,TAVISTOCK-EDGCUMBE,SX 397792,50.590,-4.266,,,,
 TYRain_1860-1869_02_pt3,70,Rainfall,1860s,England,Devon,Devon South,BECKWELL MILTON ABBOT,10,1860,[...#......],12,0,10,1863/01,1863/12,1,0,26.8,,BECKWELL-MILTON-ABBOT,,,,,,,
 TYRain_1860-1869_02_pt3,78,Rainfall,1860s,England,Devon,Devon South,NEWTON FERRERS DEVON (Duke),10,1860,[......#...],12,0,10,1866/01,1866/12,1,0,39.6,,NEWTON-FERRERS-PUSLINCH,SX 569509,50.341,-4.012,,,Rev Duke Young,Duke name of observer not location House called Puslinch
 TYRain_1860-1869_02_pt3,82,Rainfall,1860s,England,Devon,Devon South,DART VIEW TOTNES S DEVON,10,1860,[.........4],4,0,3.3,1869/09,1869/12,0,0,,,TOTNES-DART-VIEW,SX 798603,50.430,-3.694,120,,Edward Windeatt,totnes
 TYRain_1860-1869_02_pt3,83,Rainfall,1860s,England,Devon,Devon South,HAWSON BUCKFASTLEIGH DEVON,10,1860,[.5####....],53,0,44.2,1861/08,1865/12,4,0,62.8,,BUCKFASTLEIGH-HAWSON,SX 709684,50.501,-3.822,,,,
 TYRain_1860-1869_02_pt3,85,Rainfall,1860s,England,Devon,Devon South,HEXWORTHY LIDFORD DARTMOOR,10,1860,[...#......],12,0,10,1863/01,1863/12,1,0,78.4,,DARTMOOR-LIDFORD-HEXWORTHY,,,,,,,
-TYRain_1860-1869_02_pt3,90,Rainfall,1860s,England,Devon,Devon South,DARTMORE RUNDLESTONE,10,1860,[.........3],3,0,2.5,1869/10,1869/12,0,0,,,DARTMOOR-RUNDLESTONE,,,,,,,DARTMOOR
+TYRain_1860-1869_02_pt3,90,Rainfall,1860s,England,Devon,Devon South,DARTMORE RUNDLESTONE,10,1860,[.........3],3,0,2.5,1869/10,1869/12,0,0,,,DARTMOOR-RUNDLESTONE,SX 571748,50.555,-4.019,,,,DARTMOOR
 TYRain_1860-1869_02_pt3,93,Rainfall,1860s,England,Devon,Devon South,TORQUAY MELVILLE LODGE,10,1860,[.....6....],6,0,5,1865/07,1865/12,0,0,,,TORQUAY-MELVILLE-LODGE,,,,,,,
 TYRain_1860-1869_02_pt3,94,Rainfall,1860s,England,Devon,Devon South,TORQUAY (SOUTH TOWN VILLA),10,1860,[.....4....],4,0,3.3,1865/01,1865/04,0,0,,,TORQUAY-SOUTH-TOWN-VILLA,,,,,,,
 TYRain_1860-1869_02_pt3,97,Rainfall,1860s,England,Devon,Devon South,NEWTON ABBOTT DEVON SQUARE,10,1860,[......6##6],36,0,30,1866/07,1869/06,2,0,39.7,,NEWTON-ABBOT-DEVON-SQUARE,,,,,,,
 TYRain_1860-1869_02_pt3,99,Rainfall,1860s,England,Devon,Devon South,ROSE HILL HIGHWICK NEWTON BUSHEL,10,1860,[.........6],6,0,5,1869/07,1869/12,0,0,,,HIGHWEEK-NEWTON-BUSHEL-ROSE-HILL,SX 855715,50.532,-3.617,,,,
 TYRain_1860-1869_02_pt3,108,Rainfall,1860s,England,Devon,Devon South,BYSTOKE EXMOUTH,10,1860,[####......],48,0,40,1860/01,1863/12,4,0,32.5,,EXMOUTH-BYSTOKE,SY 023835,50.643,-3.383,,,E Divett,BYSTOCK House
-TYRain_1860-1869_02_pt3,111,Rainfall,1860s,England,Devon,Devon South,EXETER PARKERS WELL,10,1860,[........14],5,0,4.2,1868/12,1869/05,0,0,,,EXETER-PARKERS-WELL,,,,,,,
-TYRain_1860-1869_02_pt3,112,Rainfall,1860s,England,Devon,Devon South,EXETER ST. LEONARDS,10,1860,[.####.....],48,0,40,1861/01,1864/12,4,0,28.9,,EXETER-ST-LEONARDS,SX 930922,50.720,-3.517,,,Miss M E Clark,poss no 12
-TYRain_1860-1869_02_pt3,113,Rainfall,1860s,England,Devon,Devon South,EXETER ST LEONARDS,10,1860,[7####.....],55,0,45.8,1860/06,1864/12,4,0,24.7,,EXETER-ST-LEONARDS,SX 930922,50.720,-3.517,,,Miss M E Clark,2 gauges
+TYRain_1860-1869_02_pt3,111,Rainfall,1860s,England,Devon,Devon South,EXETER PARKERS WELL,10,1860,[........14],5,0,4.2,1868/12,1869/05,0,0,,,EXETER-PARKERS-WELL,SX 926918,50.716,-3.523,,,,
+TYRain_1860-1869_02_pt3,112,Rainfall,1860s,England,Devon,Devon South,EXETER ST. LEONARDS,10,1860,[.####.....],48,0,40,1861/01,1864/12,4,0,28.9,,EXETER-ALBERT-TERRACE-VICARY,SX 930921,50.719,-3.517,,,W.Vicary,
+TYRain_1860-1869_02_pt3,113,Rainfall,1860s,England,Devon,Devon South,EXETER ST LEONARDS,10,1860,[7####.....],55,0,45.8,1860/06,1864/12,4,0,24.7,,EXETER-ALBERT-TERRACE-VICARY,SX 930921,50.719,-3.517,,,W.Vicary,
 TYRain_1860-1869_02_pt3,119,Rainfall,1860s,England,Devon,Devon South,EXETER HOOPERN,10,1860,[....####..],48,0,40,1864/01,1867/12,4,0,32.1,,EXETER-HOOPERN,SX 925942,50.737,-3.525,,,,
 TYRain_1860-1869_02_pt3,128,Rainfall,1860s,England,Devon,Devon South,TIVERTON BROOMFIELD,10,1860,[.......#..],12,0,10,1867/01,1867/12,1,0,41.6,,TIVERTON-BROOMFIELD,,,,,,,
 TYRain_1860-1869_02_pt3,137,Rainfall,1860s,England,Devon,Devon South,SALCOMBE HILL HOUSE SIDMOUTH,10,1860,[.#22##5...],43,0,35.8,1861/03,1866/05,2,0,31.1,,SIDMOUTH-SALCOMBE-HILL-HOUSE,SY 129877,50.682,-3.234,,,,
@@ -310,13 +310,13 @@ TYRain_1860-1869_02_pt3,154,Rainfall,1860s,England,Devon,Devon North,HARTLAND,10
 TYRain_1860-1869_03_pt1,4,Rainfall,1860s,England,Cornwall,-,Redruth Cornwall,10,1860,[.#........] Dup,12,0,10,1861/01,1861/12,1,0,25.1,Duplication,CORNWALL-REDRUTH,,,,,,,
 TYRain_1860-1869_03_pt1,8,Rainfall,1860s,England,Cornwall,-,BODMIN (CHURCH TOWER),10,1860,[....9.....],9,0,7.5,1864/04,1864/12,0,0,,,BODMIN-CHURCH-TOWER,,,,,,,
 TYRain_1860-1869_03_pt1,23,Rainfall,1860s,England,Cornwall,-,Camelford Cornwall,10,1860,[T.###.....],36,0,30,1862/01,1864/12,4,0,52.4,,CORNWALL-CAMELFORD,,,,,,Miss E Glonville,
-TYRain_1860-1869_03_pt1,24,Rainfall,1860s,England,Cornwall,-,TREVALGA RECTORY CORNWALL,10,1860,[........#.],12,0,10,1868/01,1868/12,0,0,,,TREVALGA-RECTORY-CORNWALL,,,,,,,
-TYRain_1860-1869_03_pt1,28,Rainfall,1860s,England,Cornwall,-,Helston Antron Lodge Cornwall,10,1860,[........6.],6,0,5,1868/07,1868/12,0,0,,,HELSTON-ANTRON-LODGE,,,,,,,8in above ground
-TYRain_1860-1869_03_pt1,29,Rainfall,1860s,England,Cornwall,-,Helston Antron Lodge Cornwall,10,1860,[........6#],18,0,15,1868/07,1869/12,1,0,37.3,,HELSTON-ANTRON-LODGE,,,,,,,Ends 1869 - 5ft above ground
+TYRain_1860-1869_03_pt1,24,Rainfall,1860s,England,Cornwall,-,TREVALGA RECTORY CORNWALL,10,1860,[........#.],12,0,10,1868/01,1868/12,0,0,,,TREVALGA-RECTORY-CORNWALL,SX 086896,50.675,-4.710,,,,
+TYRain_1860-1869_03_pt1,28,Rainfall,1860s,England,Cornwall,-,Helston Antron Lodge Cornwall,10,1860,[........6.],6,0,5,1868/07,1868/12,0,0,,,HELSTON-ANTRON-LODGE,SW 636278,50.103,-5.307,,,,8in above ground
+TYRain_1860-1869_03_pt1,29,Rainfall,1860s,England,Cornwall,-,Helston Antron Lodge Cornwall,10,1860,[........6#],18,0,15,1868/07,1869/12,1,0,37.3,,HELSTON-ANTRON-LODGE,SW 636278,50.103,-5.307,,,,Ends 1869 - 5ft above ground
 TYRain_1860-1869_03_pt1,39,Rainfall,1860s,England,Cornwall,-,SALTASH CORNWALL,10,1860,[...#......],12,0,10,1863/01,1863/12,1,0,38.8,,CORNWALL-SALTASH,,,,,,,
-TYRain_1860-1869_03_pt1,41,Rainfall,1860s,England,Cornwall,-,St.Germans Port Eliot Cornwall,10,1860,[......#...],12,0,10,1866/01,1866/12,1,0,49.9,,ST-GERMANS-PORT-ELIOT,,,,,,,
+TYRain_1860-1869_03_pt1,41,Rainfall,1860s,England,Cornwall,-,St.Germans Port Eliot Cornwall,10,1860,[......#...],12,0,10,1866/01,1866/12,1,0,49.9,,ST-GERMANS-PORT-ELIOT,SX 361576,-4.307,50.395,,,,
 TYRain_1860-1869_03_pt1,42,Rainfall,1860s,England,Cornwall,-,Tideford Parsonage St.Germans Cornwall,10,1860,[.5###.....],40,0,33.3,1861/08,1864/11,2,0,40.9,,ST-GERMANS-TIDEFORD-PARSONAGE,,,,,,,
-TYRain_1860-1869_03_pt1,43,Rainfall,1860s,England,Cornwall,-,Catchfrench St.Germans Cornwall,10,1860,[.T#....###],48,0,40,1862/01,1869/12,5,0,45.0,,CATCHFRENCH-ST-GERMANS,,,,,,,
+TYRain_1860-1869_03_pt1,43,Rainfall,1860s,England,Cornwall,-,Catchfrench St.Germans Cornwall,10,1860,[.T#....###],48,0,40,1862/01,1869/12,5,0,45.0,,CATCHFRENCH-ST-GERMANS,SX 307596,-4.384,50.412,,,,
 TYRain_1860-1869_03_pt1,53,Rainfall,1860s,England,Somerset,-,NORTH HILL FROME,10,1860,[###2......],38,1,31.7,1860/01,1863/02,3,0,33.7,,FROME-NORTH-HILL,,,,,,,1959 few months on sheet
 TYRain_1860-1869_03_pt1,60,Rainfall,1860s,England,Somerset,-,BRISTOL WEST HARPTREE,10,1860,[........5#],17,0,14.2,1868/08,1869/12,1,0,43.8,,WEST-HARPTREE-VICARAGE,,,,,,,
 TYRain_1860-1869_03_pt1,65,Rainfall,1860s,England,Somerset,-,BATH UNITED HOSPITAL,10,1860,[..###.....],35,1,29.2,1862/01,1864/12,3,0,35.2,,BATH-UNITED-HOSPITAL,,,,,,,
@@ -412,11 +412,11 @@ TYRain_1860-1869_05_pt1,38,Rainfall,1860s,England,Yorkshire West Riding,-,Blind 
 TYRain_1860-1869_05_pt1,39,Rainfall,1860s,England,Yorkshire West Riding,-,Charnel Rock Saddleworth,10,1860,[.........5],5,0,4.2,1869/08,1869/12,0,0,,,GREENFIELD-CHARNEL-ROCKS,SE 027027,53.521,-1.961,1500,,,"NGR is Charnel Holes, which are assumed to be the Rocks. Altitude is from OS ma at top of rocks could be 200 ft. or more lower"
 TYRain_1860-1869_05_pt1,41,Rainfall,1860s,England,Yorkshire West Riding,-,FRIESLAND NR MANCHESTER,10,1860,[....######],70,0,58.3,1864/01,1869/12,6,0,47.0,,FRIESLAND-NR-MANCHESTER,SD 984042,53.534,-2.026,540,,,"NGR is the vicarage in Friezland, the observer, George Venables, is a vicar an incumbent of the church. Altitudes match"
 TYRain_1860-1869_05_pt1,44,Rainfall,1860s,England,Yorkshire West Riding,-,KIRK SMEATON,10,1860,[....##....],24,0,20,1864/01,1865/12,2,0,23.1,,KIRK-SMEATON,,,,,,,
-TYRain_1860-1869_05_pt1,50,Rainfall,1860s,England,Yorkshire West Riding,-,MELTHAM,10,1860,[......####],47,0,39.2,1866/01,1869/11,3,0,61.1,,MELTHAM-SCOPE,,,,,,,
-TYRain_1860-1869_05_pt1,51,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO 2,10,1860,[.........7],7,0,5.8,1869/05,1869/11,0,0,,,MELTHAM-SCOPE,,,,,,,
-TYRain_1860-1869_05_pt1,52,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO. 3,10,1860,[.........6],6,1,5,1869/05,1869/11,0,0,,,MELTHAM-SCOPE,,,,,,,
-TYRain_1860-1869_05_pt1,53,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO 4,10,1860,[.........6],6,0,5,1869/06,1869/11,0,0,,,MELTHAM-SCOPE,,,,,,,
-TYRain_1860-1869_05_pt1,65,Rainfall,1860s,England,Yorkshire West Riding,-,Huddersfield Fartown,10,1860,[.......6##],30,0,25,1867/07,1869/12,2,0,33.9,,HUDDERSFIELD-FARTOWN,,,,,,,
+TYRain_1860-1869_05_pt1,50,Rainfall,1860s,England,Yorkshire West Riding,-,MELTHAM,10,1860,[......####],47,0,39.2,1866/01,1869/11,3,0,61.1,,MELTHAM-SCOPE,SE 077099,53.586,-1.885,,,,
+TYRain_1860-1869_05_pt1,51,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO 2,10,1860,[.........7],7,0,5.8,1869/05,1869/11,0,0,,,MELTHAM-SCOPE,SE 077099,53.586,-1.885,,,,
+TYRain_1860-1869_05_pt1,52,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO. 3,10,1860,[.........6],6,1,5,1869/05,1869/11,0,0,,,MELTHAM-SCOPE,SE 077099,53.586,-1.885,,,,
+TYRain_1860-1869_05_pt1,53,Rainfall,1860s,England,Yorkshire West Riding,-,SCOPE NO 4,10,1860,[.........6],6,0,5,1869/06,1869/11,0,0,,,MELTHAM-SCOPE,SE 077099,53.586,-1.885,,,,
+TYRain_1860-1869_05_pt1,65,Rainfall,1860s,England,Yorkshire West Riding,-,Huddersfield Fartown,10,1860,[.......6##],30,0,25,1867/07,1869/12,2,0,33.9,,HUDDERSFIELD-FARTOWN,SE 144183,53.661,-1.784,,,,
 TYRain_1860-1869_05_pt1,68,Rainfall,1860s,England,Yorkshire West Riding,-,Huddersfield Scisset Nortonthorpe,10,1860,[......2###],37,1,30.8,1866/11,1869/12,3,0,32.3,,HUDDERSFIELD-SCISSETT,SE 247100,53.586,-1.628,475,,,NGR is Nortonthorpe Mill in Scisset. Stated altitude is slightly high or the gauge in 100m SE to match altitude
 TYRain_1860-1869_05_pt1,70,Rainfall,1860s,England,Yorkshire West Riding,-,WAKEFIELD,10,1860,[.....38...],11,0,9.2,1865/10,1866/08,0,0,,,WAKEFIELD-OBS-CHILDE,,,,,,,
 TYRain_1860-1869_05_pt1,72,Rainfall,1860s,England,Yorkshire West Riding,-,Highfield Southowram nr Halifax,10,1860,[..#.......],12,0,10,1862/01,1862/12,1,0,25.0,,HIGHFIELD-SOUTHOWRAM-NR-HALIFAX,,,,,,,
@@ -479,7 +479,7 @@ TYRain_1860-1869_06_pt3,47,Rainfall,1860s,Wales,Cardiganshire,-,CARDIGAN,10,1860
 TYRain_1860-1869_06_pt3,51,Rainfall,1860s,Wales,Brecknockshire,-,BRECON SOUTH WALES,10,1860,[......4###],40,0,33.3,1866/09,1869/12,3,0,47.4,,BRECON-SOUTH-WALES,,,,,,,
 TYRain_1860-1869_06_pt3,52,Rainfall,1860s,Wales,Brecknockshire,-,TREBERFYDD,10,1860,[.....#....],12,0,10,1865/01,1865/12,1,0,34.1,,TREBERFYDD,,,,,,,
 TYRain_1860-1869_06_pt3,55,Rainfall,1860s,Wales,Brecknockshire,-,Llanvetyd,10,1860,[.........8],8,0,6.7,1869/05,1869/12,0,0,,,LLANWRTYDD,,,,,,,
-TYRain_1860-1869_06_pt3,69,Rainfall,1860s,Wales,Montgomeryshire,-,Hills at head of Vyrnwy,10,1860,[.......T#3],15,3,12.5,1868/01,1869/12,2,0,81.2,,LLANWDDYN-HEAD-OF-VYRNWY,SH 959261,52.822,-3.546,1740,,,NGR is at the head of the Vyrnwy valley at about the correct altitude. Gauge could be +/- 1 mile or more.
+TYRain_1860-1869_06_pt3,69,Rainfall,1860s,Wales,Montgomeryshire,-,Hills at head of Vyrnwy,10,1860,[.......T#3],15,3,12.5,1868/01,1869/12,2,0,81.2,,LLANWDDYN-HEAD-OF-VYRNWY,SH 939245,52.808,-3.575,1740,,,"NGR is half a mile north of Y Gadfa, as stated in BAAS Inspection 414"
 TYRain_1860-1869_06_pt3,70,Rainfall,1860s,Wales,Flintshire,-,Bronington Nr Whitchurch,10,1860,[.....#....],12,0,10,1865/01,1865/12,1,0,26.6,,BRONINGTON-NR-WHITCHURCH,SJ 488394,52.950,-2.763,300,,,NGR is Bronignton Village. Altitude is from OS map. No clues on record about where the locations is. NGR could be +/- 1km or more.
 TYRain_1860-1869_06_pt3,82,Rainfall,1860s,Wales,Denbighshire,-,Llwyn Onn Hall,10,1860,[.......5##],29,0,24.2,1867/08,1869/12,2,0,30.3,,WREXHAM-LLWYN-ONN-HALL,,,,,,,
 TYRain_1860-1869_06_pt3,84,Rainfall,1860s,Wales,Denbighshire,-,Wrexham Grove Lodge,10,1860,[......8#7#],35,3,29.2,1866/01,1869/12,3,0,31.2,,WREXHAM-GROVE-LODGE,,,,,,,
@@ -577,7 +577,7 @@ TYRain_1860-1869_08_pt2,153,Rainfall,1860s,Ireland/Republic of Ireland,Donegal,-
 TYRain_1870-1879_01_pt1,9,Rainfall,1870s,England,Middlesex,Middlesex-became-London,CAMDEN TOWN ROCHESTER SQUARE,10,1870,[#.#####...],72,0,60,1870/01,1876/12,6,0,25.3,,CAMDEN-TOWN-ROCHESTER-SQUARE,TQ 294843,51.543,-0.135,100,,,NGR is middle of Rochester Sq. Altitude from OS map. NGR could be +/- 100m
 TYRain_1870-1879_01_pt1,18,Rainfall,1870s,England,Middlesex,Middlesex-became-London,LONDON CAMDEN ROAD,10,1870,[......4##1],29,0,24.2,1876/09,1879/01,2,0,30.9,,CAMDEN-ROAD-OBS-SWAINSON,,,,,,,
 TYRain_1870-1879_01_pt1,30,Rainfall,1870s,England,Middlesex,Middlesex-became-London,ST JOHN'S WOOD SPRINGFIELD ROAD,10,1870,[....5###96],56,0,46.7,1874/08,1879/12,3,0,27.8,,ST-JOHNS-WOOD-SPRINGFIELD-ROAD,,,,,,,
-TYRain_1870-1879_01_pt1,35,Rainfall,1870s,England,Middlesex,Middlesex-became-London,HOLLOWAY ROAD,10,1870,[9#........],21,0,17.5,1870/01,1871/12,1,0,25.2,,HOLLOWAY-ROAD,,,,,,,
+TYRain_1870-1879_01_pt1,35,Rainfall,1870s,England,Middlesex,Middlesex-became-London,HOLLOWAY ROAD,10,1870,[9#........],21,0,17.5,1870/01,1871/12,1,0,25.2,,HOLLOWAY-ROAD,TQ 304860,51.558,-0.120,,,,
 TYRain_1870-1879_01_pt1,37,Rainfall,1870s,England,Middlesex,Middlesex-became-London,ISLINGTON COMPTON TERRACE,10,1870,[#####.....],60,0,50,1870/01,1874/12,5,0,23.5,,7-COMPTON-TERRACE-ISLINGTON-LONDON,TQ 316844,51.543,-0.104,122,,,NGR is 7 Compton Terrace. Altitudes match
 TYRain_1870-1879_01_pt1,40,Rainfall,1870s,England,Middlesex,Middlesex-became-London,LONDON STOKE NEWINGTON,10,1870,[.......6#1],19,0,15.8,1877/07,1879/01,1,0,30.6,,LONDON-STOKE-NEWINGTON,,,,,,,
 TYRain_1870-1879_01_pt1,42,Rainfall,1870s,England,Middlesex,Middlesex-became-London,ORPHAN WORKING SCHOOL HAVERSTOCK HILL,10,1870,[.....9###.],45,0,37.5,1875/04,1878/12,3,0,26.7,,HAVERSTOCK-HILL-ORPHAN-WORKING-SCHOOL-HAMPSTEAD,,,,,,,
@@ -683,7 +683,7 @@ TYRain_1870-1879_03_pt3,76,Rainfall,1870s,England,Norfolk,-,Watlington,10,1870,[
 TYRain_1870-1879_03_pt3,80,Rainfall,1870s,England,Norfolk,-,KINGS LYNN,10,1870,[....4###..],40,0,33.3,1874/09,1877/12,3,0,27.4,,KINGS-LYNN,TF 621199,52.752,0.400,,,King,Estimated NGR
 TYRain_1870-1879_03_pt3,81,Rainfall,1870s,England,Norfolk,-,KINGS LYNN THE CHASE,10,1870,[......95..],14,0,11.7,1876/04,1877/05,0,0,,,KINGS-LYNN-THE-CHASE,TF 626190,52.744,0.407,,,Hennessey,
 TYRain_1870-1879_03_pt4,1,Rainfall,1870s,England,Devon,Devon North,ILFRACOMBE HIRONDELLE,10,1870,[.......#8.],20,0,16.7,1877/01,1878/08,1,0,57.2,,ILFRACOMBE-HIRONDELLE,,,,,,,
-TYRain_1870-1879_03_pt4,2,Rainfall,1870s,England,Devon,Devon North,MARTINHOE,10,1870,[...######.],72,0,60,1873/01,1878/12,6,0,52.9,,MARTINHOE,SS 668486,51.221,-3.909,,,Rev C Scriver,Rectory Max 4 good years
+TYRain_1870-1879_03_pt4,2,Rainfall,1870s,England,Devon,Devon North,MARTINHOE,10,1870,[...######.],72,0,60,1873/01,1878/12,6,0,52.9,,MARTINHOE,SS 668486,51.221,-3.909,,,Rev C Scriver,Rectory Max 4 good years. Same site as later MARTINHOE-RECTORY 1897-1927.
 TYRain_1870-1879_03_pt4,17,Rainfall,1870s,England,Devon,Devon North,OKEHAMPTON GOLDBURN,10,1870,[.......6##],30,0,25,1877/07,1879/12,2,0,47.3,,OKEHAMPTON-GOLDBURN,,,,,,E Burd,
 TYRain_1870-1879_03_pt4,18,Rainfall,1870s,England,Devon,Devon North,HATHERLEIGH NORTH LEW,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,35.5,,HATHERLEIGH-NORTH-LEW,,,,,,Rev England,starts feb 1870 so only 1 full year
 TYRain_1870-1879_03_pt4,19,Rainfall,1870s,England,Devon,Devon North,HATHERLEIGH JACOBSTOWE,10,1870,[####......],48,0,40,1870/01,1873/12,4,0,40.1,,HATHERLEIGH-JACOBSTOWE,SS 586016,50.797,-4.008,,,Dr Madden,RectoryN o 1869 BR
@@ -707,11 +707,11 @@ TYRain_1870-1879_04_pt2,15,Rainfall,1870s,England,Hampshire,-,BOURNEMOUTH,10,187
 TYRain_1870-1879_04_pt2,20,Rainfall,1870s,England,Hampshire,-,LYMINGTON UNKNOWN,10,1870,[.7###.....],43,0,35.8,1871/06,1874/12,3,0,31.3,,LYMINGTON-HIGH-ST,,,,,,G J Jones,Bookseller in High St Unknown if he lived there
 TYRain_1870-1879_04_pt2,23,Rainfall,1870s,England,Hampshire,-,PORTSEA GARRISON HOSPITAL,10,1870,[..###.....],34,0,28.3,1872/01,1874/12,2,0,31.0,,PORTSEA-GARRISON-HOSPITAL,,,,20,,W Ellis,
 TYRain_1870-1879_04_pt2,26,Rainfall,1870s,England,Hampshire,-,NETLEY HOSPITAL,10,1870,[.....#....],12,0,10,1875/01,1875/12,1,0,33.8,,NETLEY-HOSPITAL,,,,,,,
-TYRain_1870-1879_04_pt2,61,Rainfall,1870s,England,Hampshire,-,ALRESFORD WESTER COURT,10,1870,[..###.....],36,0,30,1872/01,1874/12,3,0,32.6,,ALRESFORD-WESTER-COURT,,,,,,May,
+TYRain_1870-1879_04_pt2,61,Rainfall,1870s,England,Hampshire,-,ALRESFORD WESTER COURT,10,1870,[..###.....],36,0,30,1872/01,1874/12,3,0,32.6,,ALRESFORD-WESTER-COURT,SU 600322,51.086,-1.145,,,May,
 TYRain_1870-1879_04_pt2,64,Rainfall,1870s,England,Hampshire,-,WINCHESTER WARREN HOUSE,10,1870,[......##..],24,0,20,1876/01,1877/12,2,0,42.0,,WINCHESTER-WARREN-HOUSE,,,,270,,Caird,
 TYRain_1870-1879_04_pt2,67,Rainfall,1870s,England,Hampshire,-,ALTON BLACKMOOR HOUSE,10,1870,[.........T],0,0,0,,,1,0,39.9,,ALTON-BLACKMOOR-HOUSE,,,,,,,
 TYRain_1870-1879_04_pt2,70,Rainfall,1870s,England,Hampshire,-,Andover The Vicarage,10,1870,[....####..],47,0,39.2,1874/02,1877/12,3,0,33.6,,ANDOVER-THE-VICARAGE,SU 365456,51.208,-1.479,,,H B Bonsfield,1874 Incomplete year
-TYRain_1870-1879_04_pt2,82,Rainfall,1870s,England,Hampshire,-,BASINGSTOKE WOTE STREET,10,1870,[#.........],12,0,10,1870/01,1870/12,1,0,21.0,,BASINGSTOKE-WOTE-STREET,,,,,,,
+TYRain_1870-1879_04_pt2,82,Rainfall,1870s,England,Hampshire,-,BASINGSTOKE WOTE STREET,10,1870,[#.........],12,0,10,1870/01,1870/12,1,0,21.0,,BASINGSTOKE-WOTE-STREET,SU 638522,51.265,-1.087,,,,
 TYRain_1870-1879_04_pt2,83,Rainfall,1870s,England,Hampshire,-,BASINGSTOKE,10,1870,[#.#.......],24,0,20,1870/01,1872/12,2,0,30.3,,BASINGSTOKE,,,,321,,Pistil,Start 1870 / poss William Pistell who lived in Market Place Basingstoke SU638518*???
 TYRain_1870-1879_04_pt2,84,Rainfall,1870s,England,Hampshire,-,LITCHFIELD RECTORY,10,1870,[...####...],45,0,37.5,1873/02,1876/10,2,0,32.5,,LITCHFIELD-RECTORY,SU 461539,51.282,-1.340,,,,
 TYRain_1870-1879_04_pt2,92,Rainfall,1870s,England,Hampshire,-,Kingsclere,10,1870,[....#3....],15,0,12.5,1874/01,1875/03,1,0,27.5,,KINGSCLERE,,,,,,,
@@ -723,7 +723,7 @@ TYRain_1870-1879_05_pt1,11,Rainfall,1870s,England,Cornwall,-,ST COLUMB,10,1870,[
 TYRain_1870-1879_05_pt1,25,Rainfall,1870s,England,Cornwall,-,BOSCASTLE BARN PARK,10,1870,[.....#2...],14,0,11.7,1875/01,1876/03,1,0,29.4,,BOSCASTLE-BARN-PARK,,,,,,,
 TYRain_1870-1879_05_pt1,38,Rainfall,1870s,England,Cornwall,-,FALMOUTH LANSDOWNE RD,10,1870,[....#1....],13,0,10.8,1874/01,1875/01,1,0,40.2,,FALMOUTH-LANSDOWNE-RD,,,,,,,
 TYRain_1870-1879_05_pt1,39,Rainfall,1870s,England,Cornwall,-,FALMOUTH PENMORVA,10,1870,[....2##...],26,0,21.7,1874/11,1876/12,2,0,47.6,,FALMOUTH-PENMORVA,,,,,,,
-TYRain_1870-1879_05_pt1,65,Rainfall,1870s,England,Cornwall,-,SCILLY ST MARY'S PARADE,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,28.2,,SCILLY-ST-MARYS-PARADE,,,,,,J Grenfell Moyle? Same As 1860 St Mary,
+TYRain_1870-1879_05_pt1,65,Rainfall,1870s,England,Cornwall,-,SCILLY ST MARY'S PARADE,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,28.2,,SCILLY-ST-MARYS-PARADE,SV 903105,49.914,-6.316,,,J Grenfell Moyle? Same As 1860 St Mary,
 TYRain_1870-1879_05_pt2,6,Rainfall,1870s,England,Devon,Devon South,PLYMPTON ROSE HILL COTTAGE,10,1870,[........#.],12,0,10,1878/01,1878/12,1,0,43.7,,PLYMPTON-ROSE-HILL-COTTAGE,,,,,,,
 TYRain_1870-1879_05_pt2,17,Rainfall,1870s,England,Devon,Devon South,HORRABRIDGE GRIMSTONE,10,1870,[........9#],21,0,17.5,1878/04,1879/12,1,0,68.8,,HORRABRIDGE-GRIMSTONE,,,,,,C H Bere,1880 obs ceased
 TYRain_1870-1879_05_pt2,22,Rainfall,1870s,England,Devon,Devon South,KILWORTHY HILL,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,42.0,,KILWORTHY-HILL,,,,,,Wm Merrifield,1/4mile N of library on hill / No 1869 BR
@@ -734,7 +734,7 @@ TYRain_1870-1879_05_pt2,42,Rainfall,1870s,England,Devon,Devon South,Princetown,1
 TYRain_1870-1879_05_pt2,43,Rainfall,1870s,England,Devon,Devon South,PRINCETOWN,10,1870,[#.........] ??,12,0,10,1870/01,1870/12,1,0,75.8,Misfiled decade 1870s => 1880s,PRINCETOWN-1880,,,,,,Met Soc,1880-1881
 TYRain_1870-1879_05_pt2,44,Rainfall,1870s,England,Devon,Devon South,PRINCETOWN INFIRMARY LAWN,10,1870,[.......#..] ??,12,35,10,1877/01,1877/12,1,3,81.9,Misfiled decade 1870s => 1890s,PRINCETOWN-INFIRMARY-LAWN,,,,,,Met Soc,1890s Lots estimation
 TYRain_1870-1879_05_pt2,51,Rainfall,1870s,England,Devon,Devon South,Dartmoor Princetown,10,1870,[.........8] Dup,8,0,6.7,1879/05,1879/12,0,0,,Duplication,PRINCETOWN-1870,,,,,,W Fooker,
-TYRain_1870-1879_05_pt2,53,Rainfall,1870s,England,Devon,Devon South,DARTMOOR RUNDLESTONE,10,1870,[####......],48,0,40,1870/01,1873/12,4,0,70.9,,DARTMOOR-RUNDLESTONE,,,,,,H Watts – Engineer,rendlestone on old maps
+TYRain_1870-1879_05_pt2,53,Rainfall,1870s,England,Devon,Devon South,DARTMOOR RUNDLESTONE,10,1870,[####......],48,0,40,1870/01,1873/12,4,0,70.9,,DARTMOOR-RUNDLESTONE,SX 571748,50.555,-4.019,,,H Watts – Engineer,rendlestone on old maps
 TYRain_1870-1879_05_pt2,59,Rainfall,1870s,England,Devon,Devon South,Ashburton Widdecombe Grendon House,10,1870,[.5####....],53,0,44.2,1871/08,1875/12,4,0,75.7,,ASHBURTON-WIDDECOMBE-GRENDON-HOUSE,SX 685781,50.588,-3.859,,,F West,
 TYRain_1870-1879_05_pt2,61,Rainfall,1870s,England,Devon,Devon South,TORQUAY TOR CREST HALL,10,1870,[....###...],36,0,30,1874/01,1876/12,3,0,38.0,,TORQUAY-TOR-CREST-HALL,,,,,,,
 TYRain_1870-1879_05_pt2,74,Rainfall,1870s,England,Devon,Devon South,BICKINGTON HOLBROOK,10,1870,[........#2],14,0,11.7,1878/01,1879/02,1,0,44.2,,BICKINGTON-HOLBROOK,,,,,,P Symons,1878 only
@@ -882,7 +882,7 @@ TYRain_1870-1879_08_pt1,53,Rainfall,1870s,England,Yorkshire West Riding,-,GREENF
 TYRain_1870-1879_08_pt1,54,Rainfall,1870s,England,Yorkshire West Riding,-,GREENFIELD ASHWAY HEY,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,43.8,,GREENFIELD-ASHWAY-HEY,SE 024048,53.540,-1.965,950,,,NGR is on Ashway Hey. No stated altitude or other information to locate gauge. Altitude from OS map but could be +/- 250 ft and NGR could be +/- 250 m or more
 TYRain_1870-1879_08_pt1,55,Rainfall,1870s,England,Yorkshire West Riding,-,GREENFIELD LORDS MOOR,10,1870,[##........],24,0,20,1870/01,1871/12,2,0,45.0,,GREENFIELD,,,,,,,"Cannot find Lords Moor, there is a Lords Moor Lane NE of York but not West Riding. No altitude on record"
 TYRain_1870-1879_08_pt1,66,Rainfall,1870s,England,Yorkshire West Riding,-,CAMPSALL,10,1870,[.........T],0,0,0,,,1,0,29.1,,CAMPSALL,,,,,,,
-TYRain_1870-1879_08_pt1,73,Rainfall,1870s,England,Yorkshire West Riding,-,HUDDERSFIELD FARTOWN,10,1870,[#.........],12,0,10,1870/01,1870/12,1,0,30.4,,HUDDERSFIELD-FARTOWN,,,,,,,
+TYRain_1870-1879_08_pt1,73,Rainfall,1870s,England,Yorkshire West Riding,-,HUDDERSFIELD FARTOWN,10,1870,[#.........],12,0,10,1870/01,1870/12,1,0,30.4,,HUDDERSFIELD-FARTOWN,SE 144183,53.661,-1.784,,,,
 TYRain_1870-1879_08_pt1,76,Rainfall,1870s,England,Yorkshire West Riding,-,HUDDERSFIELD SCISSETT,10,1870,[####......],47,0,39.2,1870/01,1873/11,3,0,29.0,,HUDDERSFIELD-SCISSETT,SE 247100,53.586,-1.628,475,,,NGR is Nortonthorpe Mill in Scisset. Stated altitude is slightly high or the gauge in 100m SE to match altitude
 TYRain_1870-1879_08_pt1,85,Rainfall,1870s,England,Yorkshire West Riding,-,GOOLE EDINBURGH STREET,10,1870,[.....####6],54,0,45,1875/01,1879/06,4,0,24.8,,GOOLE-EDINBURGH-ST,,,,,,,
 TYRain_1870-1879_08_pt1,86,Rainfall,1870s,England,Yorkshire West Riding,-,GOOLE TILLAGE WORKS,10,1870,[.........6],6,0,5,1879/07,1879/12,0,0,,,GOOLE-TILLAGE-WORKS,SE 739227,53.696,-0.882,19,,,NGR is the Tillage Works. Altitudes match
@@ -978,7 +978,7 @@ TYRain_1870-1879_10_pt1,91,Rainfall,1870s,Wales,Cardiganshire,-,PLYNLIMMON NANTI
 TYRain_1870-1879_10_pt1,94,Rainfall,1870s,Wales,Brecknockshire,-,CRICKHOWEL LLANGATTOCK PARK,10,1870,[.##..####.],72,0,60,1871/01,1878/12,6,0,53.5,,CRICKHOWEL-LLANGATTOCK-PARK,SO 209171,51.847,-3.150,360,,,"NGR is Llangattock Park. Altitude stated as 300?, OS figure used, 360 ft"
 TYRain_1870-1879_10_pt1,100,Rainfall,1870s,Wales,Brecknockshire,-,LLANWRTYDD,10,1870,[####......],48,0,40,1870/01,1873/12,4,0,58.4,,LLANWRTYDD,,,,,,,
 TYRain_1870-1879_10_pt2,6,Rainfall,1870s,Wales,Montgomeryshire,-,MONTGOMERY LLANDYSSIL,10,1870,[.......###],36,0,30,1877/01,1879/12,3,0,31.7,,MONTGOMERY-LLANDYSSIL,SO 194955,52.551,-3.190,400,,,"NGR is the rectory at Llandssil, the observer is a reverend. 400 ft. altitude matches there is also a 300 ft. altitude mentioned which does not. The record has a relationship to the church that is not the rectory and places the gauge 200 to 250m NW at about the same altitude."
-TYRain_1870-1879_10_pt2,31,Rainfall,1870s,Wales,Montgomeryshire,-,LLANWDDYN HEAD OF VYRNWY,10,1870,[#762......],27,3,22.5,1870/01,1873/04,3,0,83.0,,LLANWDDYN-HEAD-OF-VYRNWY,SH 959261,52.822,-3.546,1740,,,NGR is at the head of the Vyrnwy valley at about the correct altitude. Gauge could be +/- 1 mile or more.
+TYRain_1870-1879_10_pt2,31,Rainfall,1870s,Wales,Montgomeryshire,-,LLANWDDYN HEAD OF VYRNWY,10,1870,[#762......],27,3,22.5,1870/01,1873/04,3,0,83.0,,LLANWDDYN-HEAD-OF-VYRNWY,SH 939245,52.808,-3.575,1740,,,"NGR is half a mile north of Y Gadfa, as stated in BAAS Inspection 414"
 TYRain_1870-1879_10_pt2,32,Rainfall,1870s,Wales,Flintshire,-,Iscoed Park (Nr Whitchurch),10,1870,[##........],22,0,18.3,1870/01,1871/10,1,0,23.1,,ISCOED-PARK-NR-WHITCHURCH,SJ 504420,52.973,-2.740,290,,,NGR is Iscoyd Park. Altitude from OS map.
 TYRain_1870-1879_10_pt2,35,Rainfall,1870s,Wales,Flintshire,-,HOLYWELL PENTREFFY,10,1870,[......6#..],17,1,14.2,1876/07,1877/12,1,0,45.7,,HOLYWELL-PENTREFFY,SJ 132796,53.306,-3.304,425,,,"NGR is Pentre Ffynon Hall, where the observer, St John Charlton lived?. Altitudes match."
 TYRain_1870-1879_10_pt2,40,Rainfall,1870s,Wales,Flintshire,-,BROUGHTON HALL (CHESTER),10,1870,[...#......],12,0,10,1873/01,1873/12,1,0,22.2,,BROUGHTON-HALL-CHESTER,SJ 340633,53.163,-2.989,55,,,"NGR is Broughton Hall. Stated altitude, 35 ft., is 20 ft. too low."
